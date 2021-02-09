@@ -16,7 +16,7 @@
 
 //addEvent LIstener toggle=stop button clicked
       // Grabs Red Light In CSS//
-      sLight.classList.toggle('stop')
+      stopLight.classList.toggle('stop')
     })
   
     slow.addEventListener("click", function() {
